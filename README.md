@@ -1,2 +1,2 @@
 # Hello-World
-Just the first traning repository
+Just the first training repository
